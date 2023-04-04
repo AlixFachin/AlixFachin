@@ -11,7 +11,13 @@ Hi everyone, I am Alix Fachin, software developer based out of Japan. :japan:
   - I'd like to get the basics of security 🏴‍☠️ - going through a course on `TryHackMe` or something equivalent
   - I'd like to write regularly blog articles (and if possible some in Japanese 👹 )
 
-- Fun fact: I went to a cooking school for a year during a break in my carreer. Great experience which taught me humility, attention to details, hard work, and so many other things.
+- Fun fact: I went to a cooking school for a year during a break in my carreer. Great experience which taught me humility, attention to details, hard work, and so many other things. (recipe of puff pastry being one of those).
+
+- Some non-programming related stuff:
+    - First video game every played: `New Zealand Story` on Amiga 500 
+    - First video game finished (without cheating): `Final Fantasy X` on PS2
+    - Best video game ever: `The Last of Us 2` on PS4
+    - What do I do to unwind: I step outside my house and run. I am not good at it (4:15 best marathon time) but I don't give up.
 
 - Don't hesitate to contact me on my site: <https://www.alix-fachin.dev> 👋
 
